@@ -1,0 +1,2 @@
+# Emoticon
+Emoticon for dingNotice
